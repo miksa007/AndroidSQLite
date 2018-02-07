@@ -10,6 +10,8 @@ import android.widget.ArrayAdapter;
 import java.util.List;
 import java.util.Random;
 
+
+//7.2.1018 akubranch
 public class MainActivity extends ListActivity{//AppCompatActivity {
     private CommentsDataSource dataSource;
 
